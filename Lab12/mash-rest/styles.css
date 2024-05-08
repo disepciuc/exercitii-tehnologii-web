@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-top: 20px;
+}
+
+#weather-widget,
+#crime-widget {
+  margin-top: 20px;
+}
